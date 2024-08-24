@@ -8,5 +8,5 @@ I completed my first PCB design practice project for a boost converter.
 ![schematic capture](https://github.com/user-attachments/assets/7a0704d1-4c33-46d4-8fc9-032370976bb3)
 
 ## PCB Layout (2-Layer Design)
-### Full tracks overview
+### All layers with filled zones
 ![pcb_layout](https://github.com/user-attachments/assets/5d9689e6-50ad-4914-8d48-93b430721ef5)
