@@ -5,3 +5,4 @@ Using The Engineering Experience's YouTube channel [The Engineering Experience](
 I completed my first PCB design practice project for a boost converter.
 
 ## Schematic Capture
+![schematic capture](https://github.com/user-attachments/assets/7a0704d1-4c33-46d4-8fc9-032370976bb3)
